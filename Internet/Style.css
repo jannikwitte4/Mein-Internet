@@ -1,0 +1,64 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+
+#top{
+text-align: center;
+}
+
+#logo{
+font-family: Agency FB;
+background-color: rgb(86, 86, 150);
+color:red;
+font-size: 40px;
+font-weight: bold;
+padding: 8px
+}
+
+#logoname{
+background-color: rgb(111, 15, 201);
+color: white;
+font-size: 40px;
+font-weight: bold;
+margin:20px
+b
+}
+
+#navigation a {
+    color: blue;
+    font-family: Copperplate Gothic Bold;
+    padding: 3px;
+    font-size: 17px
+
+}
+#navigation a:hover {
+    color:red
+    
+}
+
+#image img{
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 100%;
+}
+
+#main {
+
+    width: 1000px;
+    color:white;
+    font-size: 100;
+}
+
+
+
+#footer{
+    padding: 30px;
+    text-align: right;
+    color:gray;
+}
+
+#Kontakt{
+    color: red;
+}
